@@ -3,4 +3,4 @@ image:
 
 tasks:
   - init: pip install gevent
-    command: 'echo "TODO: Replace with command to start project"'
+    command: 'python gevent-queue-test.py'
